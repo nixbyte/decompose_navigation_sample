@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7b79493a8b7fc1f2fff3c51cd12ba02458e8d963a07eeba4ac05a175c12568b7"
+    }
+  ],
+  "containerPath" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData/iosApp-aeelztizgrdkkecfmgbembvydses/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData/iosApp-aeelztizgrdkkecfmgbembvydses/Build/Products",
+      "derivedDataPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData/iosApp-aeelztizgrdkkecfmgbembvydses/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData/iosApp-aeelztizgrdkkecfmgbembvydses/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nixbyte/Library/Developer/Xcode/DerivedData/iosApp-aeelztizgrdkkecfmgbembvydses/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "OBJROOT" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios",
+          "SDKROOT" : "iphonesimulator17.5",
+          "SYMROOT" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

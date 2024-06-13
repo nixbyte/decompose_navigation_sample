@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.arkivanov.decompose:extensions-compose-jetpack:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/bff018e85bc93ae46126574bb3da9b37/transformed/extensions-compose-jetpack-2.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.arkivanov.decompose:decompose-android-debug:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/f1213535c99451fb8a4c56956e708be5/transformed/decompose-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/b32cde0357a2084c179fd0eb3ff8218b/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/edec45c314719ede4b84c16bf185e238/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/55ef41f2b5bdbc7a3e8b2e92d16d04f4/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/1753aafda095c2db8486b72073dad964/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/6e9e17745d713ec489cca1cee24d7062/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/fc749ffe1e70a2a82cf7dcadadde324a/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d658406f5f913f21de7890963e23eb4/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/70a49a15a0d9f4f7c3efb40995876dd9/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/945565e1c8dd7a1e0d9a1fabcc9d9fa9/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/79ec37f9197037988b87e42a37c77c61/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d413496db953b5ee52cca5b24c39bfd/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/82f0a9722dfea481156781c8ee7a6493/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/158c308b80ceb1ebd8c0b3d6649844e1/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/5fd538c60f62ea59c8d715547a0f477a/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/2da32b422639487ddbb30f63ee635eec/transformed/fragment-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.arkivanov.essenty:back-handler-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/18ca7477d30f99083f325cf2a39f2efa/transformed/back-handler-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/865b3c41ff94d6be05ea06fcfb10d0b9/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nixbyte/.gradle/caches/transforms-3/631b69c9658774dac0b5878d75202d4e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/fbbd5c7f13e8bbb92111bc76d6c73230/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/d8319483f0673d960ad649ef56009042/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nixbyte/.gradle/caches/transforms-3/94cfbabbcc8eda6ae3c6fa8741634b2a/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/cdfdbed7498bbb802f6e6d24a2cf5906/transformed/activity-1.8.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/addd10604f5ca14a891a6f3b98b2e694/transformed/activity-ktx-1.8.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/439677285cdd8ddb4c3b79b75c0ca43e/transformed/activity-compose-1.8.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3a4b502ad92f2de3cacf8703c8bb320d/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/0aa8a6f0b48047ae87a0b48d8d6ccd8f/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/358fe4c79fb739b7559b29236eebc79d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/3c9aa1c40882d8bd033cd8a5b6ceb198/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/85f0deca4b34df3978dc31ccd30ca66f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/4df06caec4d68d97217bee2ece63686b/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/11f924d7e9adfb5fd592defeadcf958a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/099816e7c8aa077b6926510d8cfd1611/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5b918fef2a2b1a082fede0cfdc01f8dd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/ef8df2af109afc2116c0d87361b22a6a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/894eb091b773e83aa5ead0466a4a95eb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/500e88dfaa4f8662f74304d2855661c2/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/28e5eecfce6bff5cf8fc7332ecbac10d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/55a4271b6a611536f18f280f4577485e/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5db1d088d8e263b748327e34c71a92ac/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/7f9960d227b455397259c1ac77d1071e/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/e920b7ab9676569e170cbf3660963856/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/86cb869aa590ca5d2b6490f488fbaa37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.arkivanov.essenty:lifecycle-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/b0fe791af558a2ccc13816710ef52a65/transformed/lifecycle-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.arkivanov.essenty:instance-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/69bd61b0e6555ebc4e58f36684619028/transformed/instance-keeper-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/1d0ffadf164a60076acdf25018f435ad/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/8bb2459e555e136b7b36c9cb7b7bf6f4/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/5263cea9abfccb0d8e0a9be3b0aadb0f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.arkivanov.essenty:state-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/0745c5d4583bda1a92d76626159af877/transformed/state-keeper-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.arkivanov.essenty:parcelable-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/785b967cdc7de1fa11a0c49c97dfde24/transformed/parcelable-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/5051cd2080accfb62f6142227f3cc17b/transformed/core-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/d9e13063998237520943e22a6277602b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/87aa60b1a6f084cf637017c6078bc10f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/c2f3f7b8ad193dd027bd7b1c5a67cffe/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/e29d965ac5ac560d2cf4fc343bff4b87/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/dc6a71d36a7b233d2c9e15f2efef8b6b/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.arkivanov.essenty:utils-internal-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/d06268c36371db139ac29db15ad6ae80/transformed/utils-internal-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/49ae09a0ebd4f755dcfd7d4512bb11f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/201b0890cefd51547848d9c36d8ce1ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/c5f5f82fb1da085221c4dbd2e58ceacb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/0ab00a29f7f7273ce28b3e5eb4d2bfeb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/bb07e602c1b9ab8be91bcbc64e37260e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/09ed7a5191fa713d5e46b63d09aa8cb7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/019cdd61feefe328ee156fed3da3be92/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/eb4c8966e5ee6bd62933f810e3125435/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nixbyte/.gradle/caches/transforms-3/628b002aecc092efc11b127a56ce9783/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/de68a4896b2cb0a6ece6aae8843c4f32/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/865b3c41ff94d6be05ea06fcfb10d0b9/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/865b3c41ff94d6be05ea06fcfb10d0b9/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nixbyte/.gradle/caches/transforms-3/631b69c9658774dac0b5878d75202d4e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nixbyte/.gradle/caches/transforms-3/631b69c9658774dac0b5878d75202d4e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/0ab00a29f7f7273ce28b3e5eb4d2bfeb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/0ab00a29f7f7273ce28b3e5eb4d2bfeb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:7:9-40
+activity#com.epicwindmill.decomposekmmnavigationsample.android.MainActivity
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:9:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.decompose:extensions-compose-jetpack:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/bff018e85bc93ae46126574bb3da9b37/transformed/extensions-compose-jetpack-2.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.decompose:extensions-compose-jetpack:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/bff018e85bc93ae46126574bb3da9b37/transformed/extensions-compose-jetpack-2.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.decompose:decompose-android-debug:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/f1213535c99451fb8a4c56956e708be5/transformed/decompose-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.decompose:decompose-android-debug:2.1.0] /Users/nixbyte/.gradle/caches/transforms-3/f1213535c99451fb8a4c56956e708be5/transformed/decompose-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/b32cde0357a2084c179fd0eb3ff8218b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/b32cde0357a2084c179fd0eb3ff8218b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/edec45c314719ede4b84c16bf185e238/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/edec45c314719ede4b84c16bf185e238/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/55ef41f2b5bdbc7a3e8b2e92d16d04f4/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/55ef41f2b5bdbc7a3e8b2e92d16d04f4/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/1753aafda095c2db8486b72073dad964/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/1753aafda095c2db8486b72073dad964/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/6e9e17745d713ec489cca1cee24d7062/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/6e9e17745d713ec489cca1cee24d7062/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/fc749ffe1e70a2a82cf7dcadadde324a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/fc749ffe1e70a2a82cf7dcadadde324a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d658406f5f913f21de7890963e23eb4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d658406f5f913f21de7890963e23eb4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/70a49a15a0d9f4f7c3efb40995876dd9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/70a49a15a0d9f4f7c3efb40995876dd9/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/945565e1c8dd7a1e0d9a1fabcc9d9fa9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/945565e1c8dd7a1e0d9a1fabcc9d9fa9/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/79ec37f9197037988b87e42a37c77c61/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/79ec37f9197037988b87e42a37c77c61/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d413496db953b5ee52cca5b24c39bfd/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3d413496db953b5ee52cca5b24c39bfd/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/82f0a9722dfea481156781c8ee7a6493/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/82f0a9722dfea481156781c8ee7a6493/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/158c308b80ceb1ebd8c0b3d6649844e1/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/158c308b80ceb1ebd8c0b3d6649844e1/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/5fd538c60f62ea59c8d715547a0f477a/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/5fd538c60f62ea59c8d715547a0f477a/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/2da32b422639487ddbb30f63ee635eec/transformed/fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/2da32b422639487ddbb30f63ee635eec/transformed/fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.arkivanov.essenty:back-handler-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/18ca7477d30f99083f325cf2a39f2efa/transformed/back-handler-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:back-handler-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/18ca7477d30f99083f325cf2a39f2efa/transformed/back-handler-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/865b3c41ff94d6be05ea06fcfb10d0b9/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/865b3c41ff94d6be05ea06fcfb10d0b9/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nixbyte/.gradle/caches/transforms-3/631b69c9658774dac0b5878d75202d4e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/nixbyte/.gradle/caches/transforms-3/631b69c9658774dac0b5878d75202d4e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/fbbd5c7f13e8bbb92111bc76d6c73230/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/fbbd5c7f13e8bbb92111bc76d6c73230/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/d8319483f0673d960ad649ef56009042/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/d8319483f0673d960ad649ef56009042/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nixbyte/.gradle/caches/transforms-3/94cfbabbcc8eda6ae3c6fa8741634b2a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nixbyte/.gradle/caches/transforms-3/94cfbabbcc8eda6ae3c6fa8741634b2a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/cdfdbed7498bbb802f6e6d24a2cf5906/transformed/activity-1.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/cdfdbed7498bbb802f6e6d24a2cf5906/transformed/activity-1.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/addd10604f5ca14a891a6f3b98b2e694/transformed/activity-ktx-1.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/addd10604f5ca14a891a6f3b98b2e694/transformed/activity-ktx-1.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/439677285cdd8ddb4c3b79b75c0ca43e/transformed/activity-compose-1.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0-rc01] /Users/nixbyte/.gradle/caches/transforms-3/439677285cdd8ddb4c3b79b75c0ca43e/transformed/activity-compose-1.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3a4b502ad92f2de3cacf8703c8bb320d/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/3a4b502ad92f2de3cacf8703c8bb320d/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/0aa8a6f0b48047ae87a0b48d8d6ccd8f/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/nixbyte/.gradle/caches/transforms-3/0aa8a6f0b48047ae87a0b48d8d6ccd8f/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/358fe4c79fb739b7559b29236eebc79d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/358fe4c79fb739b7559b29236eebc79d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/3c9aa1c40882d8bd033cd8a5b6ceb198/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/3c9aa1c40882d8bd033cd8a5b6ceb198/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/85f0deca4b34df3978dc31ccd30ca66f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/85f0deca4b34df3978dc31ccd30ca66f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/4df06caec4d68d97217bee2ece63686b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/4df06caec4d68d97217bee2ece63686b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/11f924d7e9adfb5fd592defeadcf958a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/11f924d7e9adfb5fd592defeadcf958a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/099816e7c8aa077b6926510d8cfd1611/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/099816e7c8aa077b6926510d8cfd1611/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5b918fef2a2b1a082fede0cfdc01f8dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5b918fef2a2b1a082fede0cfdc01f8dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/ef8df2af109afc2116c0d87361b22a6a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/ef8df2af109afc2116c0d87361b22a6a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/894eb091b773e83aa5ead0466a4a95eb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/894eb091b773e83aa5ead0466a4a95eb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/500e88dfaa4f8662f74304d2855661c2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nixbyte/.gradle/caches/transforms-3/500e88dfaa4f8662f74304d2855661c2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/28e5eecfce6bff5cf8fc7332ecbac10d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/28e5eecfce6bff5cf8fc7332ecbac10d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/55a4271b6a611536f18f280f4577485e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/55a4271b6a611536f18f280f4577485e/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5db1d088d8e263b748327e34c71a92ac/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/5db1d088d8e263b748327e34c71a92ac/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/7f9960d227b455397259c1ac77d1071e/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/7f9960d227b455397259c1ac77d1071e/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/e920b7ab9676569e170cbf3660963856/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/e920b7ab9676569e170cbf3660963856/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/86cb869aa590ca5d2b6490f488fbaa37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/86cb869aa590ca5d2b6490f488fbaa37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.arkivanov.essenty:lifecycle-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/b0fe791af558a2ccc13816710ef52a65/transformed/lifecycle-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:lifecycle-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/b0fe791af558a2ccc13816710ef52a65/transformed/lifecycle-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:instance-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/69bd61b0e6555ebc4e58f36684619028/transformed/instance-keeper-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:instance-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/69bd61b0e6555ebc4e58f36684619028/transformed/instance-keeper-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/1d0ffadf164a60076acdf25018f435ad/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/1d0ffadf164a60076acdf25018f435ad/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/8bb2459e555e136b7b36c9cb7b7bf6f4/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/8bb2459e555e136b7b36c9cb7b7bf6f4/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/5263cea9abfccb0d8e0a9be3b0aadb0f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/5263cea9abfccb0d8e0a9be3b0aadb0f/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.arkivanov.essenty:state-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/0745c5d4583bda1a92d76626159af877/transformed/state-keeper-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:state-keeper-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/0745c5d4583bda1a92d76626159af877/transformed/state-keeper-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:parcelable-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/785b967cdc7de1fa11a0c49c97dfde24/transformed/parcelable-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:parcelable-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/785b967cdc7de1fa11a0c49c97dfde24/transformed/parcelable-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/5051cd2080accfb62f6142227f3cc17b/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/5051cd2080accfb62f6142227f3cc17b/transformed/core-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/d9e13063998237520943e22a6277602b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/d9e13063998237520943e22a6277602b/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/87aa60b1a6f084cf637017c6078bc10f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/87aa60b1a6f084cf637017c6078bc10f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/c2f3f7b8ad193dd027bd7b1c5a67cffe/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nixbyte/.gradle/caches/transforms-3/c2f3f7b8ad193dd027bd7b1c5a67cffe/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/e29d965ac5ac560d2cf4fc343bff4b87/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/e29d965ac5ac560d2cf4fc343bff4b87/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/dc6a71d36a7b233d2c9e15f2efef8b6b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/dc6a71d36a7b233d2c9e15f2efef8b6b/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:utils-internal-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/d06268c36371db139ac29db15ad6ae80/transformed/utils-internal-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.arkivanov.essenty:utils-internal-android-debug:1.2.0] /Users/nixbyte/.gradle/caches/transforms-3/d06268c36371db139ac29db15ad6ae80/transformed/utils-internal-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/49ae09a0ebd4f755dcfd7d4512bb11f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/49ae09a0ebd4f755dcfd7d4512bb11f2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/201b0890cefd51547848d9c36d8ce1ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/201b0890cefd51547848d9c36d8ce1ce/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/c5f5f82fb1da085221c4dbd2e58ceacb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/c5f5f82fb1da085221c4dbd2e58ceacb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/0ab00a29f7f7273ce28b3e5eb4d2bfeb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/0ab00a29f7f7273ce28b3e5eb4d2bfeb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/bb07e602c1b9ab8be91bcbc64e37260e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/bb07e602c1b9ab8be91bcbc64e37260e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/09ed7a5191fa713d5e46b63d09aa8cb7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/09ed7a5191fa713d5e46b63d09aa8cb7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/019cdd61feefe328ee156fed3da3be92/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/019cdd61feefe328ee156fed3da3be92/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/eb4c8966e5ee6bd62933f810e3125435/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/eb4c8966e5ee6bd62933f810e3125435/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nixbyte/.gradle/caches/transforms-3/628b002aecc092efc11b127a56ce9783/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nixbyte/.gradle/caches/transforms-3/628b002aecc092efc11b127a56ce9783/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/de68a4896b2cb0a6ece6aae8843c4f32/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nixbyte/.gradle/caches/transforms-3/de68a4896b2cb0a6ece6aae8843c4f32/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nixbyte/Sources/kotlin/decompose_navigation_sample/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.3] /Users/nixbyte/.gradle/caches/transforms-3/0166b660a032fc2d83116b3135d11d2f/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nixbyte/.gradle/caches/transforms-3/65218a21ec870bf1c3ac91a3f5e1140d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nixbyte/.gradle/caches/transforms-3/6ad20484529a9fd3d7270e0f3da015ee/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/nixbyte/.gradle/caches/transforms-3/a9aa830058078196336d6054ce7a5f6d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+permission#com.epicwindmill.decomposekmmnavigationsample.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+uses-permission#com.epicwindmill.decomposekmmnavigationsample.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] /Users/nixbyte/.gradle/caches/transforms-3/fbe9180811ee709ac7ebc1f2c1de9bbb/transformed/core-1.10.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/nixbyte/.gradle/caches/transforms-3/8be0103f0197e68c923bf54c4a6fd304/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

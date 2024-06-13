@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.epicwindmill.decomposekmmnavigationsample.androidApp-merged_res-53:/drawable_ic_feedback.xml.flat",
+        "source": "com.epicwindmill.decomposekmmnavigationsample.androidApp-main-55:/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "com.epicwindmill.decomposekmmnavigationsample.androidApp-merged_res-53:/drawable_ic_home.xml.flat",
+        "source": "com.epicwindmill.decomposekmmnavigationsample.androidApp-main-55:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.epicwindmill.decomposekmmnavigationsample.androidApp-merged_res-53:/drawable_ic_list.xml.flat",
+        "source": "com.epicwindmill.decomposekmmnavigationsample.androidApp-main-55:/drawable/ic_list.xml"
+    }
+]

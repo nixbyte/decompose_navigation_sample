@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/shared/build/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/nixbyte/.gradle/caches/transforms-3/cdaccf979b3328be739cb238558e5d39/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/shared/build/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/nixbyte/.gradle/caches/transforms-3/cdaccf979b3328be739cb238558e5d39/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/shared/build/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/nixbyte/.gradle/caches/transforms-3/cdaccf979b3328be739cb238558e5d39/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    }
+]

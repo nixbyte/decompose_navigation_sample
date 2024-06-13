@@ -1,0 +1,158 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.dia",
+    "emit-module-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iosApp-master.swiftdeps"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ComponentHolder.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ComponentHolder~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ContentView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/iOSApp.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/iOSApp~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/MainView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ObservableValue.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ObservableValue~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/RootView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenA1View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA1View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenA2View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenA2View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenAView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenAView~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenB1View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB1View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenB2View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenB2View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenBView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenBView~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenC1View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC1View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenC2View.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenC2View~partial.swiftmodule"
+  },
+  "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/iosApp/iosApp/ScreenCView.swift" : {
+    "const-values" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.swiftconstvalues",
+    "dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.d",
+    "diagnostics" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.dia",
+    "index-unit-output-path" : "/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.o",
+    "llvm-bc" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.bc",
+    "object" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.o",
+    "swift-dependencies" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView.swiftdeps",
+    "swiftmodule" : "/Users/nixbyte/Sources/kotlin/KMM-demos/DecomposeKmmNavigationSample/build/ios/iosApp.build/Debug-iphonesimulator/iosApp.build/Objects-normal/arm64/ScreenCView~partial.swiftmodule"
+  }
+}
